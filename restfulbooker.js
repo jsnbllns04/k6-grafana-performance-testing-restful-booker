@@ -9,8 +9,8 @@ const JSON_HEADER = {
 
 export const options = {
     stages: [
-        { duration: '30s', target: 10 },   // ramp-up: go from 0 to 5 VUs in 30 seconds
-        { duration: '1m', target: 15 },    // steady load: hold 5 VUs for 1 minute
+        { duration: '30s', target: 10 },   // ramp-up: go from 0 to 10 VUs in 30 seconds
+        { duration: '1m', target: 15 },    // steady load: hold 15 VUs for 1 minute
         { duration: '30s', target: 0 },   // ramp-down: go back to 0 VUs
     ],
 
