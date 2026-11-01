@@ -33,12 +33,12 @@ Last run of `restfulbooker.js`:
 | Metric | Result |
 |---|---|
 | Peak virtual users | [15] |
-| Total requests | [ ] |
-| Average response time | [ ] ms |
-| 95th percentile response time | [ ] ms |
-| Failed requests | [ ] % |
-| Checks passed | [ ] % |
-| Thresholds | [Passed / Failed] |
+| Total requests | [911] |
+| Average response time | [354.85] ms |
+| 95th percentile response time | [771.8] ms |
+| Failed requests | [0] % |
+| Checks passed | [100] % |
+| Thresholds | [Passed] |
 
 **Observations:** [Which endpoint was slowest? Did response times grow as users increased? Did any check fail?]
 
